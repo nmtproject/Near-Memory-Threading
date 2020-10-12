@@ -100,4 +100,12 @@ you can easily connect the prediction mechanism to the context switching net by 
 
 assign context_switch = context_switch & context_switch_from_prediction_module;  
 
+Written by:
 
+   Rayan Labay
+   Mohammed Dallasheh
+
+Supervisors:
+   
+   Eric Herbelin
+   Kunal Korgaonkar
