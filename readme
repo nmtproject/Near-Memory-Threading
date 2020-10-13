@@ -102,13 +102,13 @@ assign context_switch = context_switch & context_switch_from_prediction_module;
 
 Written by:
 
-   Mohammed Dallasheh
-   Rayan Labay
+   Mohammed Dallasheh      |
+   Rayan Labay             |   labay123ryan@gmail.com
 
 Supervisors:
    
-   Eric Herbelin
-   Kunal Korgaonkar
+   Eric Herbelin           |
+   Kunal Korgaonkar        |
 
 Technion, ASIC2 Lab
 
